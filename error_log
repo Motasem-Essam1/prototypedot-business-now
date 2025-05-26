@@ -1,0 +1,12 @@
+[15-Sep-2024 16:09:33 UTC] PHP Warning:  Module "fileinfo" is already loaded in Unknown on line 0
+[15-Sep-2024 16:09:33 UTC] PHP Warning:  require(/home/businessegy/public_html/back.business-egy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/businessegy/public_html/back.business-egy.com/artisan on line 18
+[15-Sep-2024 16:09:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/businessegy/public_html/back.business-egy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/businessegy/public_html/back.business-egy.com/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/businessegy/public_html/back.business-egy.com/artisan on line 18
+[15-Sep-2024 16:09:52 UTC] PHP Warning:  Module "fileinfo" is already loaded in Unknown on line 0
+[15-Sep-2024 16:09:52 UTC] PHP Warning:  require(/home/businessegy/public_html/back.business-egy.com/vendor/autoload.php): Failed to open stream: No such file or directory in /home/businessegy/public_html/back.business-egy.com/artisan on line 18
+[15-Sep-2024 16:09:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/businessegy/public_html/back.business-egy.com/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/businessegy/public_html/back.business-egy.com/artisan:18
+Stack trace:
+#0 {main}
+  thrown in /home/businessegy/public_html/back.business-egy.com/artisan on line 18

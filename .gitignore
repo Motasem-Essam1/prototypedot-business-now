@@ -1,0 +1,7 @@
+/storage
+/vendor
+/.idea
+
+.env
+
+.codegpt
